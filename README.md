@@ -1,6 +1,8 @@
 # telecom-customer-churn-rate
 数据集为kaggle上的电信客户流失率数据集：“WA_Fn-UseC_-Telco-Customer-Churn”，针对该数据集的特点提出一种改进的KNN算法提高准确率。
 
+environments.txt为实验所需软硬件环境；
+
 数据集：WA_Fn-UseC_-Telco-Customer-Churn.csv为原始的电信客户流失率数据集；
 
 数据集：prepare_trandition_data.csv为KNN和Gauss-KNN算法的输入数据集。数据集中将离散定序特征进行了特征映射，将离散定类特征进行了one-hot编码；
