@@ -1,0 +1,9 @@
+开展实验的硬件与软件环境说明：
+硬件环境：
+  处理器：AMD Ryzen 7 4800H with Radeon Graphics
+  内存：16GB
+  
+软件环境：
+  操作系统：Windows10
+  编辑器：Spyder
+  所需python包：numpy、pandas、matplotlib、sklearn等
